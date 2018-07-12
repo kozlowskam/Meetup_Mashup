@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "meetup": "^0.1.0-SNAPSHOT",
+    "socket.io": "^2.0.3"
+  }
+}
